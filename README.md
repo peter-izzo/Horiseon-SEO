@@ -37,3 +37,7 @@ THEN I find a concise, descriptive title
 
 ### Screenshot of Work
 ![Horiseon Screenshot](./assets/images/Horiseon.png)
+
+### Deployed Page
+
+https://peter-izzo.github.io/Horiseon-SEO/.

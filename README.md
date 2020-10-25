@@ -36,4 +36,4 @@ THEN I find a concise, descriptive title
 - Commented HTMl and CSS for readibility 
 
 ### Screenshot of Work
-![Horiseon Screenshot](./assets/images/Horiseon.pdf)
+![Horiseon Screenshot](./assets/images/Horiseon.png)
